@@ -24,16 +24,16 @@ Mental Math Trainer is a minimalistic Mental Math Trainer app that provides user
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Assets/Game%20Screenshot/DP4.png" alt="Game Screenshot 4" style="width: 32%;">
-  <img src="Assets/Game%20Screenshot/DP5.png" alt="Game Screenshot 5" style="width: 32%;">
-  <img src="Assets/Game%20Screenshot/DP6.png" alt="Game Screenshot 6" style="width: 32%;">
+  <img src="Assets/Game%20Screenshot/MT%20(4).jpeg" alt="Game Screenshot 4" style="width: 32%;">
+  <img src="Assets/Game%20Screenshot/MT%20(5).jpeg" alt="Game Screenshot 5" style="width: 32%;">
+  <img src="Assets/Game%20Screenshot/MT%20(6).jpeg" alt="Game Screenshot 6" style="width: 32%;">
 </div>
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Assets/Game%20Screenshot/DP1.png" alt="Game Screenshot 1" style="width: 32%;">
-  <img src="Assets/Game%20Screenshot/DP2.png" alt="Game Screenshot 2" style="width: 32%;">
-  <img src="Assets/Game%20Screenshot/DP3.png" alt="Game Screenshot 3" style="width: 32%;">
+  <img src="Assets/Game%20Screenshot/MT%20(1).jpeg" alt="Game Screenshot 1" style="width: 32%;">
+  <img src="Assets/Game%20Screenshot/MT%20(2).jpeg" alt="Game Screenshot 2" style="width: 32%;">
+  <img src="Assets/Game%20Screenshot/MT%20(3).jpeg" alt="Game Screenshot 3" style="width: 32%;">
 </div>
 
 ## Features
