@@ -29,13 +29,6 @@ Mental Math Trainer is a minimalistic Mental Math Trainer app that provides user
   <img src="Game%20Screenshot/MT%20(6).jpeg" alt="Game Screenshot 6" style="width: 32%;">
 </div>
 
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/MT%20(1).jpeg" alt="Game Screenshot 1" style="width: 32%;">
-  <img src="Game%20Screenshot/MT%20(2).jpeg" alt="Game Screenshot 2" style="width: 32%;">
-  <img src="Game%20Screenshot/MT%20(3).jpeg" alt="Game Screenshot 3" style="width: 32%;">
-</div>
-
 ## Features
 
 - **Timed Exercises:** Practice arithmetic skills with timed exercises.
